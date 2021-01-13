@@ -1,0 +1,6 @@
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+test
+测试
+ $routeCollector->addRoute(['GET', 'POST'], '/lawPersonInvestmentInfo', $prefix . 'lawPersonInvestmentInfo');
+            $routeCollector->addRoute(['GET', 'POST'], '/getRegisterInfo', $prefix . 'getRegisterInfo');
+            $routeCollector->addRoute(['GET', 'POST'], '/getShareHolderInfo', $prefix . 'getShareHolderInfo');
