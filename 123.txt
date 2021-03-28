@@ -7,3 +7,7 @@ test
 
 
             22：20   test123456789
+            22：52   test123456789测试
+             $routeCollector->addRoute(['GET', 'POST'], '/lawPersonInvestmentInfo', $prefix . 'lawPersonInvestmentInfo');
+            $routeCollector->addRoute(['GET', 'POST'], '/getRegisterInfo', $prefix . 'getRegisterInfo');
+            $routeCollector->addRoute(['GET', 'POST'], '/getShareHolderInfo', $prefix . 'getShareHolderInfo');
